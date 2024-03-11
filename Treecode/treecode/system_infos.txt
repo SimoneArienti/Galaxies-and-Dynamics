@@ -1,0 +1,5 @@
+
+Hierarchical N-body code (theta scan)
+
+   nbody     dtime       eps     theta   usequad     dtout     tstop
+   10000   0.10000    0.0300      0.01     false   0.10000   20.0000
